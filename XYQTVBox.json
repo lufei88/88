@@ -187,14 +187,14 @@
         //{"name":"解析聚合","type":3,"url":"Demo"},
         //{"name":"Json并发","type":2,"url":"Parallel"},
         //{"name":"Json轮询","type":2,"url":"Sequence"},
-        {"name":"-香-","type":0,"url":"https://jx.m3u8.pw/?url="},
-        {"name":"-雅-","type":0,"url":"https://jx.xmflv.com/?url="},
-        {"name":"-情-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-        {"name":"-免-","type":0,"url":"http://okjx.cc/?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-        {"name":"-费-","type":0,"url":"https://jx.yparse.com/index.php?url="},
-        {"name":"-分-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-        {"name":"-享-","type":0,"url":"https://jx.aidouer.net/?url="},
-        {"name":"-🌷-","type":0,"url":"https://jx.quankan.app/?url="}
+        {"name":"-1-","type":0,"url":"https://jx.m3u8.pw/?url="},
+        {"name":"-2-","type":0,"url":"https://jx.xmflv.com/?url="},
+        {"name":"-3-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+        {"name":"-4-","type":0,"url":"http://okjx.cc/?url=","parse":"1","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+        {"name":"-5-","type":0,"url":"https://jx.yparse.com/index.php?url="},
+        {"name":"-6-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+        {"name":"-7-","type":0,"url":"https://jx.aidouer.net/?url="},
+        {"name":"-8-","type":0,"url":"https://jx.quankan.app/?url="}
         
     ],
     "flags": [
