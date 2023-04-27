@@ -1,22 +1,22 @@
 {
     "urls": [
         {
-            "url": "./XYQTVBox.json",
+            "url": "https://raw.iqiq.io/lufei88/88/main/XYQTVBox.json",
             "name": "香雅情本地(海阔推送)",
             "time": "2023-04-19"
         },
         {
-            "url": "./drpy_js/drjs_config.json",
+            "url": "https://raw.iqiq.io/lufei88/88/main/drpy_js/drjs_config.json",
             "name": "道长本地JS",
             "time": "2023-04-16"
         },
         {
-            "url": "./qiaoji/qjtvbox.json",
+            "url": "https://raw.iqiq.io/lufei88/88/main/qiaoji/qjtvbox.json",
             "name": "巧计本地",
             "time": "2023-04-19"
         },
         {
-            "url": "./Yoursmile/XC.json",
+            "url": "https://raw.iqiq.io/lufei88/88/main/Yoursmile/XC.json",
             "name": "南风本地",
             "time": "2023-04-19"
         }
