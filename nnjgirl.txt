@@ -4820,13 +4820,6 @@ Weyyak Drama (720p),https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 Wildside TV (720p),https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 Wu Tang Collection (720p),https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 
-⚠️  版权信息,#genre#
-版权归属,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
-直播源开发,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
-一次购买永久维护,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
-如有疑问,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
-请加vx,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
-nnjgirl,http://39.134.136.132:6610/200000001898/460000089800010144/1.m3u8?IASHttpSessionId=OTT
 
 🎮 游戏直播,#genre#
 bili_LOL赛事1,https://xy123x246x199x2xy.mcdn.bilivideo.cn:486/live-bvc/306339/live_50329118_9516950_bluray/index.m3u8
@@ -9960,7 +9953,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 2022几首DJ串烧,https://vd3.bdstatic.com/mda-nck3tqzgjvj076vc/sc/cae_h264_delogo/1647833645083560959/mda-nck3tqzgjvj076vc.mp4
 dj2,https://txmov2.a.kwimgs.com/upic/2022/02/26/21/BMjAyMjAyMjYyMTA0NDNfNDgxMDc1MjAyXzY4NDc2OTQ2ODIwXzJfMw==_b_B8bea180e522f50e798de6592a286c2ae.mp4?tag=1-1648474056-std-1-c9f21uqlgl-48edc39d5ad20196&clientCacheKey=3xjfhmwkpupp5si_b.mp4&tt=b&di=529d11df&bp=12681
 
-⚽  境外体育风景类_99,#genre#
+⚽  境外体育风景类,#genre#
 ⚽TVRI•SPORTS🇮🇩,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 TVN•SPORTS_🇰🇷,https://cdn-us-154.cloudrsst.com/live/olivetv_540/playlist.m3u8
 SPOTV_🇰🇷,https://cdn-us-154.cloudrsst.com/live/spotv_540/playlist.m3u8
