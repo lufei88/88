@@ -4,5 +4,9 @@
             "sourceName": "lufei",
             "sourceUrl": "https://raw.iqiq.io/lufei88/88/main/hiker_offline.json"
         }
+        {
+            "sourceName":"大佬仓",
+            "sourceUrl":"http://43.136.176.170/tv/other/api/gzh/2.txt"
+        }
     ]
 }
