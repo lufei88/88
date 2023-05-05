@@ -2,6 +2,11 @@
     "urls": [
         {
             "url": "https://raw.iqiq.io/lufei88/88/main/XYQ.json",
+            "name": "路飞",
+            "time": "2023-04-19"
+        },
+        {
+            "url": "https://raw.iqiq.io/lufei88/88/main/XYQZX.json",
             "name": "lufei",
             "time": "2023-04-19"
         },
