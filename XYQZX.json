@@ -189,9 +189,11 @@
         
     ],
     "parses": [
-        //{"name":"解析聚合","type":3,"url":"Demo"},
-        //{"name":"Json并发","type":2,"url":"Parallel"},
-        //{"name":"Json轮询","type":2,"url":"Sequence"},
+        {"name":"解析聚合","type":3,"url":"Demo"},
+        {"name":"Json并发","type":2,"url":"Parallel"},
+        {"name":"Json轮询","type":2,"url":"Sequence"},
+        {"name":"快速接口1","type":1,"url":"http://json.key521.cn/api/?key=8bec03ce51e8c0cae6693341a3d8d312&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
+        {"name":"快速接口2","type":1,"url":"http://json.84jia.com/api/json.php/?key=M04O8a6xH346uyGPLK&url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
         {"name":"-1-","type":0,"url":"https://jx.m3u8.pw/?url="},
         {"name":"-2-","type":0,"url":"https://jx.xmflv.com/?url="},
         {"name":"-3-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
